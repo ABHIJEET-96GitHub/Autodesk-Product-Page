@@ -1,0 +1,13 @@
+dt{
+    color: blueviolet;
+    font-size: larger;
+}
+
+body{
+    height: 100%;
+    margin: 0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-image: linear-gradient(to left blue 10%, skyblue 20%, lightblue 30%, white 40%);
+    background: -webkit-gradient(to left blue 10%, skyblue 20%, lightblue 30%, white 40%);
+}
